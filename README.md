@@ -29,9 +29,13 @@ The **Hospital Network System** is a secure and efficient network infrastructure
 
 ### 💻 **Network Topology**
 🔸 **3-Floor Structure**:
+
   🔹 Ground Floor: Reception, Emergency, Pharmacy
+  
   🔹 Administrative Floor: Billing, HR, Administration
+  
   🔹 Medical Floor: IT, Radiology
+  
 🔸 **Central Router** for inter-VLAN routing
 
 ### 🔧 **Technical Implementation**
